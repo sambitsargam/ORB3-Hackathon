@@ -1,1 +1,2 @@
-# ORB3-Hackathon
+# MetaTinder
+MetaTinder: Where Hearts Connect Safely in the Decentralized Realm
